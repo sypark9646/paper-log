@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
-|title| 원본 논문의 제목을 최대한 보존해 주세요! |
-|---|---|
-|year| 출판 년도 |
-|note| USENIX FAST, ATC, OSDI, ACM SOSP, SIGMETRICS ... |
-|URL| 논문 URL을 적어주세요 |
-|assignees| 이름 |
-
-
 ## 어떤 내용의 논문인가요? 👋
 
 간략하게 어떤 내용의 논문인지 작성해 주세요! (짧게 1-2줄 이어도 좋아요!)
