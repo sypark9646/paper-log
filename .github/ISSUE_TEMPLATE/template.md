@@ -10,6 +10,7 @@ assignees: ''
 |title| 원본 논문의 제목을 최대한 보존해 주세요! |
 |---|---|
 |year| 출판 년도 |
+|note| USENIX FAST, ATC, OSDI, ACM SOSP, SIGMETRICS ... |
 |URL| 논문 URL을 적어주세요 |
 |assignees| 이름 |
 
